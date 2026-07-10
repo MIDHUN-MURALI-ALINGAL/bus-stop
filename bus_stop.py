@@ -30,7 +30,7 @@ def get_bus_stops(lat, lon):
     """
 
     response = requests.get(
-        "https://overpass-api.de/api/interpreter",
+        ""https://lz4.overpass-api.de/api/interpreter",
         params={"data": query},
         timeout=30
     )
