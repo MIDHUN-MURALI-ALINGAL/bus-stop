@@ -1,0 +1,7 @@
+streamlit
+bcrypt
+folium
+streamlit-folium
+requests
+geopy
+streamlit-js-eval
