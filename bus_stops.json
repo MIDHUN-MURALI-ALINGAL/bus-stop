@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Ottapalam Bus Stand",
+        "latitude": 10.7738,
+        "longitude": 76.3773
+    },
+    {
+        "name": "Shoranur Bus Stand",
+        "latitude": 10.7618,
+        "longitude": 76.2714
+    },
+    {
+        "name": "Pattambi Bus Stand",
+        "latitude": 10.8048,
+        "longitude": 76.1956
+    },
+    {
+        "name": "Cherpulassery Bus Stand",
+        "latitude": 10.8783,
+        "longitude": 76.3096
+    },
+    {
+        "name": "Mannarkkad Bus Stand",
+        "latitude": 10.9926,
+        "longitude": 76.4649
+    },
+    {
+        "name": "Palakkad KSRTC Bus Stand",
+        "latitude": 10.7867,
+        "longitude": 76.6548
+    },
+    {
+        "name": "Palakkad Town Bus Stand",
+        "latitude": 10.7742,
+        "longitude": 76.6540
+    },
+    {
+        "name": "Alathur Bus Stand",
+        "latitude": 10.6482,
+        "longitude": 76.5434
+    },
+    {
+        "name": "Chittur Bus Stand",
+        "latitude": 10.6991,
+        "longitude": 76.7482
+    },
+    {
+        "name": "Koduvayur Bus Stand",
+        "latitude": 10.6938,
+        "longitude": 76.6532
+    }
+]
